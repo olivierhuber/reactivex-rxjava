@@ -1,0 +1,11 @@
+= Zenika Academy ReactiveX/RxJava tutorials
+
+`RxJavaTutorial.java` contains some quick and simple steps to get started with RxJava and its concepts
+
+`ImperativeParadigm.java` would be the "standard" imperative way of processing an Excel file
+
+`ReactiveParadigm.java` is a RxJava "reactive" exemple of processing an Excel file
+
+These exemples were used in a video created by Zenika available here https://www.youtube.com/user/ZenikaITTv
+
+Some articles on Reactive programming can be found on our Blog https://blog.zenika.com/
